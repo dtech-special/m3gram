@@ -27,7 +27,6 @@ M3gram is an **open-source Telegram client** redesigned with **Material 3** and 
 ## ✦ Features
 
 |                        |                               |
-| ---------------------- | ----------------------------- |
 | 🎨 **Material 3**      | A complete modern UI          |
 | 🖌️ **Customization**  | Themes, colors and appearance |
 | 👤 **M3gram Profiles** | Your own profile layer        |
